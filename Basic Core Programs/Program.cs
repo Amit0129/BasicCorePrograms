@@ -24,7 +24,11 @@
 
             //Compute Quotient and Remainder
             Compute_Quotient_and_Remainder compute = new Compute_Quotient_and_Remainder();
-            compute.GetQuotientAndRemainder();
+            //compute.GetQuotientAndRemainder();
+
+            //Swap Two Number
+            SwapTwoNumbers swapTwoNumbers = new SwapTwoNumbers();
+            swapTwoNumbers.SwapTwoNumber();
         }
     }
 }
