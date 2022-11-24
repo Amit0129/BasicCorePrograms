@@ -20,7 +20,11 @@
 
             //Harmonic Number Program
             HarmonicNumber harmonicNumber = new HarmonicNumber();
-            harmonicNumber.GetHarmonicValue();
+            //harmonicNumber.GetHarmonicValue();
+
+            //Compute Quotient and Remainder
+            Compute_Quotient_and_Remainder compute = new Compute_Quotient_and_Remainder();
+            compute.GetQuotientAndRemainder();
         }
     }
 }
