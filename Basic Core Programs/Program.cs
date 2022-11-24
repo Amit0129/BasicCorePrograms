@@ -32,7 +32,11 @@
 
             //Evem Or Odd program
             EvenOdd evenOdd = new EvenOdd();
-            evenOdd.CheckEvenorOdd();
+            //evenOdd.CheckEvenorOdd();
+
+            //Alphabet is Vowel or Consonant
+            VowelOr_Consonant vowelOr_Consonant = new VowelOr_Consonant();
+            vowelOr_Consonant.CheckVowelOrConsonant();
         }
     }
 }
