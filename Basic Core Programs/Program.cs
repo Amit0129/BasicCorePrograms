@@ -28,7 +28,11 @@
 
             //Swap Two Number
             SwapTwoNumbers swapTwoNumbers = new SwapTwoNumbers();
-            swapTwoNumbers.SwapTwoNumber();
+            //swapTwoNumbers.SwapTwoNumber();
+
+            //Evem Or Odd program
+            EvenOdd evenOdd = new EvenOdd();
+            evenOdd.CheckEvenorOdd();
         }
     }
 }
