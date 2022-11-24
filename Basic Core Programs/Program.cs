@@ -12,7 +12,11 @@
 
             //Leap Year Program
             LeapYear leapYear = new LeapYear();
-            leapYear.CheckLeapYear();
+            //leapYear.CheckLeapYear();
+
+            //Power Of Two Program
+            PowerOfTwo powerOfTwo = new PowerOfTwo();
+            powerOfTwo.GetPowerOfTwoTable();
         }
     }
 }
