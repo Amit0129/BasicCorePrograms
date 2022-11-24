@@ -16,7 +16,11 @@
 
             //Power Of Two Program
             PowerOfTwo powerOfTwo = new PowerOfTwo();
-            powerOfTwo.GetPowerOfTwoTable();
+            //powerOfTwo.GetPowerOfTwoTable();
+
+            //Harmonic Number Program
+            HarmonicNumber harmonicNumber = new HarmonicNumber();
+            harmonicNumber.GetHarmonicValue();
         }
     }
 }
