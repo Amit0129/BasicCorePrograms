@@ -36,7 +36,12 @@
 
             //Alphabet is Vowel or Consonant
             VowelOr_Consonant vowelOr_Consonant = new VowelOr_Consonant();
-            vowelOr_Consonant.CheckVowelOrConsonant();
+            //vowelOr_Consonant.CheckVowelOrConsonant();
+
+            //Largest Among Three Numbers Program
+            LargrstAmongThreeNum largrstAmongThreeNum = new LargrstAmongThreeNum();
+            largrstAmongThreeNum.GetLargest();
+
         }
     }
 }
