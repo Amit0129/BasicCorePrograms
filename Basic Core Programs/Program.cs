@@ -6,8 +6,13 @@
         {
             Console.WriteLine("Basic Core Programs Main Program");
 
+            //FlipCoinProblem
             FlipCoin flipCoin = new FlipCoin(10);
-            flipCoin.GetPersentage();
+            //flipCoin.GetPersentage();
+
+            //Leap Year Program
+            LeapYear leapYear = new LeapYear();
+            leapYear.CheckLeapYear();
         }
     }
 }
